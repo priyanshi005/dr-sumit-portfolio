@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Doctor Portfolio Website 🏥
 
 A professional, modern medical portfolio website developed as a **freelance project** for a doctor, based on a custom Figma design.
@@ -38,3 +39,6 @@ This website represents the doctor's professional identity and medical services 
 ## 📜 License
 MIT License  
 Design and content are the property of the client.
+=======
+# dr-sumit-portfolio
+>>>>>>> e79d4ebf62e34dbb193bd7f8bf4647b36a51a19f
