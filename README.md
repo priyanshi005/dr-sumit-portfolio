@@ -3,7 +3,7 @@
 
 A professional, modern medical portfolio website developed as a **freelance project** for a doctor, based on a custom Figma design.
 
-Link: https://www.parthsorathiya.com/
+Link: 
 
 ## 🩺 About the Project
 This website represents the doctor's professional identity and medical services with a focus on:
